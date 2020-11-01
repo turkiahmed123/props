@@ -1,0 +1,23 @@
+* {
+    background-color: gray
+    
+}
+
+
+#pic-img {
+    width: 300px;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #cnt {
+    text-align: center;
+    list-style-type: none;
+    margin: 44px;
+    font-size: x-large;
+    color: yellow;
+    font-family: cursive;
+  }
