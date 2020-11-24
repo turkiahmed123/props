@@ -6,9 +6,9 @@ export default function bio() {
   return (
     <div >
       <ul id="cnt">
-          <li>Telephone="(+216) 53693636"</li>
-          <li>Email="alouanihbib@hotmail.com"</li>
-          <li>Adresse="Les berges du lac, Tunis"</li>
+          <li>Telephone="(+216) 20 940 841"</li>
+          <li>Email="turkiahmed40@gmail.com"</li>
+          <li>Adresse="Zaghouan"</li>
       </ul>
     </div>
   );

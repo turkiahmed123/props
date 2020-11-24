@@ -12,9 +12,9 @@ function App() {
       <Bio />
       <img id="pic-img" src="/image.jpg" alt="" />
       <Contact 
-        Telephone="(+216) 53693636"
-        Email="alouanihbib@hotmail.com"
-        Adresse="Les berges du lac, Tunis"
+        Telephone="(+216) 20 940 841"
+        Email="turkiahmed40@gmail.com"
+        Adresse="Zaghouan"
       />
     </div>
   );
